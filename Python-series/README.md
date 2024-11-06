@@ -21,10 +21,10 @@ Esta serie está diseñada para repasar conceptos importantes y mejorar nuestras
 
 1. **Tipos de datos en Python**:
    - Números enteros (`int`), flotantes (`float`), cadenas de texto (`str`), booleanos (`bool`).
-2. **Estructuras de datos**:
-   - Listas (`list`), tuplas (`tuple`), diccionarios (`dict`), conjuntos (`set`).
-3. **Bucles**:
+2. **Bucles**:
    - `for`, `while` y cómo utilizarlos para iterar sobre secuencias.
+3. **Estructuras de datos**:
+   - Listas (`list`), tuplas (`tuple`), diccionarios (`dict`), conjuntos (`set`).
 4. **Funciones**:
    - Definición de funciones con `def`, parámetros, valores de retorno.
 5. **Manejo de errores**:
