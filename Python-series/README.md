@@ -17,35 +17,33 @@ Esta serie está diseñada para repasar conceptos importantes y mejorar nuestras
      - Estructuras condicionales (`if`, `else`, `elif`).
    - [Ver video aquí](https://youtu.be/fOyhFEz5VVE?si=9bbAW1nDqs7nFPJg)
 2. **Video 2: Bucles de repetición(for y while)**
-   - [Ver video aquí]()
+   - [Ver video aquí](https://youtu.be/EgKR9bRIq4U?si=iL-NVM4qEOsM_avV)
 
 ### Próximos temas (de lo más básico a lo más avanzado):
 
 1. **Tipos de datos en Python**:
    - Números enteros (`int`), flotantes (`float`), cadenas de texto (`str`), booleanos (`bool`).
-2. **Bucles**:
-   - `for`, `while` y cómo utilizarlos para iterar sobre secuencias.
-3. **Estructuras de datos**:
+2. **Estructuras de datos**:
    - Listas (`list`), tuplas (`tuple`), diccionarios (`dict`), conjuntos (`set`).
-4. **Funciones**:
+3. **Funciones**:
    - Definición de funciones con `def`, parámetros, valores de retorno.
-5. **Manejo de errores**:
+4. **Manejo de errores**:
    - Uso de `try`, `except` para capturar y manejar excepciones.
-6. **Módulos y librerías**:
+5. **Módulos y librerías**:
    - Importar módulos de Python y utilizar librerías externas.
-7. **Trabajo con archivos**:
+6. **Trabajo con archivos**:
    - Leer y escribir en archivos.
-8. **POO (Programación Orientada a Objetos)**:
+7. **POO (Programación Orientada a Objetos)**:
    - Clases, objetos, herencia y encapsulamiento.
-9. **Manejo avanzado de excepciones**:
+8. **Manejo avanzado de excepciones**:
    - Creación de excepciones personalizadas y manejo avanzado de errores.
-10. **Decoradores y funciones avanzadas**:
+9. **Decoradores y funciones avanzadas**:
     - Introducción a funciones como objetos de primera clase, funciones anidadas y uso de decoradores.
-11. **Optimización del rendimiento**:
+10. **Optimización del rendimiento**:
     - Mejores prácticas y técnicas para optimizar el rendimiento en Python.
-12. **Conceptos avanzados de programación funcional**:
+11. **Conceptos avanzados de programación funcional**:
     - Uso de `map()`, `filter()`, `reduce()` y comprensión de listas.
-13. **Testing en Python**:
+12. **Testing en Python**:
     - Unit testing y testeo automatizado con `unittest` y `pytest`.
 
 ## Enlaces útiles
