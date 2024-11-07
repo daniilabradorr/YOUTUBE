@@ -15,7 +15,9 @@ Esta serie está diseñada para repasar conceptos importantes y mejorar nuestras
      - Definición y uso de variables.
      - Operadores matemáticos básicos (+, -, *, /).
      - Estructuras condicionales (`if`, `else`, `elif`).
-   - [Ver video aquí](enlace_a_video_1)
+   - [Ver video aquí](https://youtu.be/fOyhFEz5VVE?si=9bbAW1nDqs7nFPJg)
+2. **Video 2: Bucles de repetición(for y while)**
+   - [Ver video aquí]()
 
 ### Próximos temas (de lo más básico a lo más avanzado):
 
